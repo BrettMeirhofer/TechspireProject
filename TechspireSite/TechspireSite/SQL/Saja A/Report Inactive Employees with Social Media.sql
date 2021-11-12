@@ -1,7 +1,7 @@
 --Saja Alyasin
 --Inactive Employees with a Social Media
---The client can use this report to determine which employees are currently inactive in order to remove them from being contacted or updated with future business practices.
---Displays the inactive employees with their social media information, it is sorted alphabetically by employee first name.
+--The client can utilize this report to determine which employee are currently inactive in order to remove them from being contacted or updated with future business practices. Most employees when hired share their social media information with the business in order to receive additional updates about the business and as another means of contact, after those employees leave the business, they must be removed from the store’s social media account since they are no longer actively working there anymore.
+--This report displays the inactive employees with their social media information, it is sorted in ascending order by employee first name.
 --Row Number, Employee First Name, Employee Last Name, Social Media Type, User Handle
 --,,,,,
 
