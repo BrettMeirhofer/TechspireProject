@@ -1,7 +1,7 @@
 -- Saja Alyasin
--- Points accumulated by an active customer by month
--- Client can use this report to determine an active customer's accumulation of points in a given month
--- Displays the points accumulated by an active customer in a given month 
+-- Points accumulated by an active customer by a given year
+-- This report displays the points accumulated by an active customer in a given year.
+-- The client can utilize this report to determine an active customer’s accumulation of points in a given year, this report can later be manipulated to display year the business owner would like to see. This report is useful for determining the customer with the most accumulated points in that given year in order for the business owner to potentially reward those active customers with special promotions, free products, loyalty points, etc.
 -- Row Number, First name, Last name, Points Accumulated, Category name
 --,,,,,
 
